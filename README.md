@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Unconscious's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnconsciousChess&theme=graywhite&show_icons=true)
+![Unconscious's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnconsciousChess&theme=city_lights&show_icons=true)
